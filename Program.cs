@@ -1,33 +1,12 @@
-﻿int gradeTotal = 0;
-Console.WriteLine("Please enter each grade one by one as a percentage:");
-for (int i = 0; i < 6; i++)
-{
-    Console.Write((i+1)+": ");
-    int grade = Convert.ToInt32(Console.ReadLine());
-    gradeTotal = gradeTotal + grade;
-}
-Console.WriteLine("Grade total is: " + gradeTotal);
-int average = gradeTotal / 6;
-Console.WriteLine("Average grade is: "+ average);
-Console.Write("You got a ");
-switch (average)
-{
-
-    case >= 70:
-        Console.WriteLine("1st");
-        break;
-    case >= 60:
-        Console.WriteLine("2-1");
-        break;
-    case >= 50:
-        Console.WriteLine("2-2");
-        break;
-    case >= 40:
-        Console.WriteLine("Pass");
-        break;
-    default:
-    Console.WriteLine("bugger");
-    break;
-}
-
+﻿int x,y,z,pn=0;
+Console.WriteLine("Enter 3 real numbers pls: ");
+x = Convert.ToInt32(Console.ReadLine());
+y= Convert.ToInt32(Console.ReadLine());
+z = Convert.ToInt32(Console.ReadLine());
+if (x<0){pn = pn+1;}
+if (y<0){pn = pn+1;}
+if (z<0){pn = pn+1;}
+Console.WriteLine(pn);
+if (pn == 0 || pn == 2){Console.WriteLine("Your number is postitive");}
+else if (pn == 1 || pn == 3){Console.WriteLine("Your number is negative");}
 Console.ReadKey();
