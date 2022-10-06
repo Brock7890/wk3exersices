@@ -1,0 +1,15 @@
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\wk3exersices.csproj.AssemblyReference.cache
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\wk3exersices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\wk3exersices.AssemblyInfoInputs.cache
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\wk3exersices.AssemblyInfo.cs
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\wk3exersices.csproj.CoreCompileInputs.cache
+C:\Users\overw\c# test\wk3exersices\bin\Debug\net6.0\wk3exersices.exe
+C:\Users\overw\c# test\wk3exersices\bin\Debug\net6.0\wk3exersices.deps.json
+C:\Users\overw\c# test\wk3exersices\bin\Debug\net6.0\wk3exersices.runtimeconfig.json
+C:\Users\overw\c# test\wk3exersices\bin\Debug\net6.0\wk3exersices.dll
+C:\Users\overw\c# test\wk3exersices\bin\Debug\net6.0\wk3exersices.pdb
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\wk3exersices.dll
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\refint\wk3exersices.dll
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\wk3exersices.pdb
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\wk3exersices.genruntimeconfig.cache
+C:\Users\overw\c# test\wk3exersices\obj\Debug\net6.0\ref\wk3exersices.dll
