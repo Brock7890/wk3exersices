@@ -2,11 +2,14 @@
 Console.WriteLine("Please enter each grade one by one as a percentage:");
 for (int i = 0; i < 6; i++)
 {
-    int grade = Console.Read();
+    Console.Write((i+1)+": ");
+    int grade = Convert.ToInt32(Console.ReadLine());
     gradeTotal = gradeTotal + grade;
 }
-Console.WriteLine(gradeTotal);
+Console.WriteLine("Grade total is: " + gradeTotal);
 int average = gradeTotal / 6;
+Console.WriteLine("Average grade is: "+ average);
+Console.Write("You got a ");
 switch (average)
 {
 
